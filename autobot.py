@@ -29,8 +29,8 @@ logger = logging.getLogger(__name__)
 # ---------------------------
 # Telethon Credentials (your static app credentials)
 # ---------------------------
-API_ID = 29645357
-API_HASH = '09fe232230c4dac6eea1a79792201c25'
+API_ID = "api id here
+API_HASH = 'api hash here'
 SESSION_NAME = 'my_session'
 
 # ---------------------------
